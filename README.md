@@ -1,28 +1,44 @@
-# 💫 About Me:
-I am currently a student at the University of Lille in the 3rd year of a computer science degree.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+==============================================================================================================
 
-## 💻 Tech Stack
-### LANGUAGES
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-### OS
-[![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
-### IDE 
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
-[![CLion](https://img.shields.io/badge/CLion-black?style=flat&logo=clion&logoColor=white)](https://img.shields.io/badge/CLion-black?style=flat&logo=clion&logoColor=white)
-### FRAMEWORKS - API
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
-### DATABASES
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-### DESIGN
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
-### CI/CD
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+* I am currently a student at the University of Lille in the 3rd year of a computer science degree.
+* You can contact me at :  [louis.becue.etu@univ-lille.fr](mailto:louis.becue.etu@univ-lille.fr)
 
-### 🌐 Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/louisbecue) 
+## Languages
+![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
+![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000) 
+![Haskell](https://img.icons8.com/?size=100&id=Lvn3jvfnl1XF&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
+![PHP](https://img.icons8.com/?size=100&id=YrKoPXb4jv9l&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000)
+![PowerShell](https://img.icons8.com/?size=100&id=59500&format=png&color=000000)
+![Bash](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)
+
+## OS
+![Windows 11](https://img.icons8.com/?size=100&id=TuXN3JNUBGOT&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)
+![Ubuntu](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
+![Kali](https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000)
+
+## IDE 
+![IntelliJ IDEA](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
+![Visual Studio Code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
+![PyCharm](https://img.icons8.com/?size=100&id=117121&format=png&color=000000)
+
+## Frameworks - API
+![React](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)
+![NodeJS](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
+![NumPy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) 
+![PyTorch](https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000) 
+
+## Databases
+![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) 
+![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)
+![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
+
+## CI/CD
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![GitLab](https://img.icons8.com/?size=100&id=34886&format=png&color=000000)
+![GitHub](https://img.icons8.com/?size=100&id=63777&format=png&color=000000)
+![Docker](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)
