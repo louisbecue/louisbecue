@@ -6,3 +6,5 @@ I am currently a student at the University of Lille in the 3rd year of a compute
 * You can find more informations about me here : [My portfolio](https://louisbecue.github.io/portfolio/)
 * You can find me CV here : [download my CV](https://louisbecue.github.io/portfolio/doc/CV_Louis_Becue.pdf)
 * You can contact me at :  [louis.becue@ik.me](mailto:louis.becue@ik.me)
+
+* Visite my site for compute your Chat GPT footprint (French) :  [click here](https://louisbecue.github.io/empreinte-carbone-Chat-GPT/)
