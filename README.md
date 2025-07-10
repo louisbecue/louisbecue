@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am currently a student at the University of Lille in the 3rd year of a computer science degree.
   
 - 🌐 Portfolio: [link](https://louisbecue.github.io/portfolio/)  
-- 📄 Resume: [Download my CV](https://louisbecue.github.io/portfolio/doc/CV_Louis_Becue.pdf)  
 - 📫 Email: [louis.becue@ik.me](mailto:louis.becue@ik.me)  
 
 ## 💻 Tech Stack
