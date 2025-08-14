@@ -2,7 +2,7 @@
 
 Master’s student in **Cloud Computing & Cybersecurity** at the University of Lille.
 
-- Portfolio: [louisbecue.github.io/portfolio](https://louisbecue.github.io/)
+- Portfolio: [louisbecue.github.io/portfolio](https://louisbecue.github.io/portfolio)
 
 ## Programming Languages
 
