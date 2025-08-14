@@ -22,18 +22,11 @@ Master’s student in **Cloud Computing & Cybersecurity** at the University of L
   <img src="https://skillicons.dev/icons?i=kali,wireshark,tryhackme" />
 </p>
 
-## Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louisbecue&show_icons=true&theme=transparent" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louisbecue&theme=transparent" height="140" />
-</p>
-
 ## Recently Played
 
 <div align="center">
   <a href="https://open.spotify.com/user/q8dqaqqkb1mxigsuzxhjzz00h">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=q8dqaqqkb1mxigsuzxhjzz00h&count=5&unique=false" alt="Spotify recently played"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=q8dqaqqkb1mxigsuzxhjzz00h&count=3&unique=false" alt="Spotify recently played"/>
   </a>
 </div>
 
