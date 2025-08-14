@@ -15,18 +15,3 @@ Master’s student in **Cloud Computing & Cybersecurity** at the University of L
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,terraform,kubernetes,ansible,github,gitlab" />
 </p>
-
-## Cybersecurity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,wireshark,tryhackme" />
-</p>
-
-## Recently Played
-
-<div align="center">
-  <a href="https://open.spotify.com/user/q8dqaqqkb1mxigsuzxhjzz00h">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=q8dqaqqkb1mxigsuzxhjzz00h&count=3&unique=false" alt="Spotify recently played"/>
-  </a>
-</div>
-
